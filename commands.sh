@@ -3,26 +3,17 @@
 brew tap caskroom/cask
 brew tap drone/drone
 
-brew install cask drone git pipenv python postgresql
+brew install git python postgresql
 
-brew cask install   1clipboard
-                    battle-net
-                    discord
-                    docker
-                    github
-                    google-backup-and-sync
-                    google-chrome
-                    google-hangouts
-                    google-web-designer
-                    jdownloader
-                    league-of-legends
+brew cask install   1clipboard /
+                    iterm2 /
+                    google-chrome /
+                    spotify /
+                    visual-studio-code /
+                    bettertouchtool /
+                    android-studio /
+                    obs /
+                    docker /
+                    github /
                     libreoffice
-                    papers
-                    pycharm-ce
-                    slack
-                    spotify
-                    steam
-                    sublime-text
-                    thunderbird
-                    virtualbox
-                    visual-studio-code
+                 
