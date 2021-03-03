@@ -5,14 +5,4 @@ brew tap drone/drone
 
 brew install git python postgresql
 
-brew cask install   iterm2 /
-                    google-chrome /
-                    spotify /
-                    visual-studio-code /
-                    bettertouchtool /
-                    android-studio /
-                    obs /
-                    docker /
-                    github /
-                    libreoffice
-                 
+brew install google-chrome iterm2 spotify bettertouchtool android-studio obs docker libreoffice visual-studio-code
