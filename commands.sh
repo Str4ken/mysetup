@@ -5,4 +5,4 @@ brew tap drone/drone
 
 brew install git python postgresql
 
-brew install google-chrome iterm2 spotify bettertouchtool android-studio obs docker libreoffice visual-studio-code
+brew install google-chrome iterm2 spotify discord whatsapp telegram bettertouchtool android-studio obs docker libreoffice visual-studio-code
